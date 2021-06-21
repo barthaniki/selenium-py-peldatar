@@ -27,7 +27,7 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Test with pytest
       run: |
-        pytest /testproject/ --alluredir=allure-results
+        pytest /testproject --alluredir=allure-results
     
     - name: Get Allure history
       uses: actions/checkout@v2
