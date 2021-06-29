@@ -1,0 +1,100 @@
+{
+  "uid" : "c0ad9890bd6f93aa",
+  "name" : "test_add_string__expect_exception",
+  "fullName" : "testproject.test_mymath#test_add_string__expect_exception",
+  "historyId" : "0e93b819cc2e8121f7281dc8e4eaaf78",
+  "time" : {
+    "start" : 1625006062310,
+    "stop" : 1625006062311,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az77-912"
+  }, {
+    "name" : "thread",
+    "value" : "3038-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "8288ee5c0707f8c6",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/14//#testresult/8288ee5c0707f8c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625002706338,
+          "stop" : 1625002706338,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "c5bf58b361f9fb7e",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/13//#testresult/c5bf58b361f9fb7e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625002676088,
+          "stop" : 1625002676088,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "4ae91acb317248a6",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/12//#testresult/4ae91acb317248a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625002648661,
+          "stop" : 1625002648662,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "37dcb22c5e7b0df1",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/11//#testresult/37dcb22c5e7b0df1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624808242274,
+          "stop" : 1624808242274,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c0ad9890bd6f93aa.json",
+  "parameterValues" : [ ]
+}
