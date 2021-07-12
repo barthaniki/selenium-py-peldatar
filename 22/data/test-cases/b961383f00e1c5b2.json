@@ -1,0 +1,163 @@
+{
+  "uid" : "b961383f00e1c5b2",
+  "name" : "test_add_zero",
+  "fullName" : "testproject.test_mymath#test_add_zero",
+  "historyId" : "77caee529814bb5616db6b28df37c87c",
+  "time" : {
+    "start" : 1626123276646,
+    "stop" : 1626123276646,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testproject"
+  }, {
+    "name" : "suite",
+    "value" : "test_mymath"
+  }, {
+    "name" : "host",
+    "value" : "fv-az74-105"
+  }, {
+    "name" : "thread",
+    "value" : "2853-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testproject.test_mymath"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 12,
+        "unknown" : 0,
+        "total" : 12
+      },
+      "items" : [ {
+        "uid" : "1a8a92a2917876ca",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/21//#testresult/1a8a92a2917876ca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1626033942517,
+          "stop" : 1626033942517,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "843e7eb6d412c36",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/20//#testresult/843e7eb6d412c36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625996806317,
+          "stop" : 1625996806317,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3fe15927c2fd0c71",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/19//#testresult/3fe15927c2fd0c71",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625996763036,
+          "stop" : 1625996763036,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b189d88db73ed2ef",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/18//#testresult/b189d88db73ed2ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625996733295,
+          "stop" : 1625996733295,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "55c5162e0b6ec13",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/17//#testresult/55c5162e0b6ec13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625996657005,
+          "stop" : 1625996657005,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b72b623403490fd6",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/16//#testresult/b72b623403490fd6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625996604358,
+          "stop" : 1625996604358,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "79475e9a6c1cefb",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/15//#testresult/79475e9a6c1cefb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625006062307,
+          "stop" : 1625006062307,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "60d69cec99454493",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/14//#testresult/60d69cec99454493",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625002706334,
+          "stop" : 1625002706335,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "4cbfc8f0524517ed",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/13//#testresult/4cbfc8f0524517ed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625002676085,
+          "stop" : 1625002676086,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "217e6baa4e76b4aa",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/12//#testresult/217e6baa4e76b4aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1625002648659,
+          "stop" : 1625002648659,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "796394012a4d1818",
+        "reportUrl" : "https://barthaniki.github.io/selenium-py-peldatar/11//#testresult/796394012a4d1818",
+        "status" : "passed",
+        "time" : {
+          "start" : 1624808242271,
+          "stop" : 1624808242271,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b961383f00e1c5b2.json",
+  "parameterValues" : [ ]
+}
