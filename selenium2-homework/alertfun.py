@@ -20,7 +20,10 @@ alert.accept()
 
 prompt_btn = driver.find_element_by_name("prompt").click()
 time.sleep(2)
+prompt_message = "alert message"
+alert.send_keys(prompt_message)
 alert.accept()
+assert driver.find_element_by_tag_name("p").text == f"You entered: {prompt_message}"
 
 action = ActionChains(driver)
 action.double_click(driver.find_element_by_id("double-click")).perform()
